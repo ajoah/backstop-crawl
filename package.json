@@ -51,7 +51,7 @@
     "cheerio": "^1.0.0-rc.2",
     "cli-truncate": "1.0.0",
     "jsonfile": "^3.0.0",
-    "meow": "3.7.0",
+    "meow": "^10.0.0",
     "mkpath": "1.0.0",
     "normalize-url": "^1.9.1",
     "object.entries": "1.0.4",
